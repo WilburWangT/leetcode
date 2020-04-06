@@ -1,0 +1,22 @@
+# 512. 游戏玩法分析 II  Game Play Analysis II
+
+## 题目要求
+查询玩家首次登陆的设备Id
+
+## 思路
+[511题](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/511.md) 中，我们已经可以查询首次登陆日期，通过该表查询对应设备 Id 即可
+这里 (player_id, event_date) 为表的主键，可以联合查询。
+```sql
+select player_id, device_id
+from Activity
+where (player_id, event_date)
+in(
+    select player_id, min(event_date)
+    from Activity
+    group by player_id)
+```
+
+## 启示
+主要是主键的概念需要理解，因为我是学习者，所以对于此还需要更加深入的研究学习
+
+*更新时间 2020/4/6*
