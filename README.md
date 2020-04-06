@@ -6,14 +6,26 @@
 
 ## 数据库题目
 
-### 简单
+注1：采用 MySQL 语言环境。
+
+注2：提供多种思路，但仍然不限于此，可以发挥自己的想象力。
+
+### 简单难度
 
 NO. | Name | 题目 | 思路
 -|-|-|-
 175 | Combine Two Tables | [中文版](https://leetcode-cn.com/problems/combine-two-tables/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/175.md)
- |  | [中文版]()<br>[英文版]() | [思路]()
- |  | [中文版]()<br>[英文版]() | [思路]()
- |  | [中文版]()<br>[英文版]() | [思路]()
+176 | Second Highest Salary | [中文版](https://leetcode-cn.com/problems/second-highest-salary/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/176.md)
+181 | Employees Earning More Than Their Managers | [中文版](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/181.md)
+182 | Duplicate Emails | [中文版](https://leetcode-cn.com/problems/duplicate-emails/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/182.md)
+183 | Customers Who Never Order | [中文版](https://leetcode-cn.com/problems/customers-who-never-order/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/183.md)
+196 | Delete Duplicate Emails | [中文版](https://leetcode-cn.com/problems/delete-duplicate-emails/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/196.md)
+197 | Rising Temperature | [中文版](https://leetcode-cn.com/problems/rising-temperature/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/197.md)
+511 | Game Play Analysis I | [中文版](https://leetcode-cn.com/problems/game-play-analysis-i/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/511.md)
+512 | Game Play Analysis II | [中文版](https://leetcode-cn.com/problems/game-play-analysis-ii/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/512.md)
+577 | Employee Bonus | [中文版](https://leetcode-cn.com/problems/employee-bonus/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/577.md)
+584 | Find Customer Referee | [中文版](https://leetcode-cn.com/problems/find-customer-referee/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/584.md)
+586 | Customer Placing the Largest Number of Orders | [中文版](https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders/)<br>[英文版]() | [思路](https://github.com/WilburWangT/leetcode/blob/master/DB/Solution/586.md)
  |  | [中文版]()<br>[英文版]() | [思路]()
  |  | [中文版]()<br>[英文版]() | [思路]()
  |  | [中文版]()<br>[英文版]() | [思路]()
